@@ -1,0 +1,1 @@
+An switch is needed for the communication of all devices using ARP to identify the diff devices and CAM to store that info. I need the RHEL router to serv not as a traditional router communicating with the outside world, but monitor and track what the outside world request from the home.
